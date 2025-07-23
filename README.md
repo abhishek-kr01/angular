@@ -49,8 +49,3 @@ ng serve
 ---
 
 This project will grow as I learn more! 😊
-
-```
-
----
-```
